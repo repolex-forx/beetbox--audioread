@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/beetbox/audioread/commit/9b749f0c4d61df763ac6dbf151c64a2366fcf2c3",
       "git:hexsha": "9b749f0c4d61df763ac6dbf151c64a2366fcf2c3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/beetbox/audioread/commit/fe4a79af99d44c562923b8dc42c70d2a07aa9329",
